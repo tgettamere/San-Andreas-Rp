@@ -1,0 +1,19 @@
+{
+  "name": "savastano-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "nodemon": "^1.19.1",
+    "sf": "^0.2.0",
+    "superagent": "^5.1.0"
+  }
+}
